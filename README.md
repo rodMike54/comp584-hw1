@@ -1,6 +1,6 @@
 # COMP 584 Homework 1
 
-**Students:** Michael Rodriguez and Oscar Marin
+**Students:** Michael Rodriguez
 
 This repository contains the updated HTML and CSS files for COMP 584 Homework 1.
 
@@ -19,3 +19,4 @@ This repository contains the updated HTML and CSS files for COMP 584 Homework 1.
 ## Run the Website
 
 Open https://rodmike54.github.io/comp584-hw1/hw0.github.io-main/index.html in a web browser to view the updated webpage.
+or click the index.html link
