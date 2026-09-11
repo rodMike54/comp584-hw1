@@ -4,6 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="icon" href="https://glitch.com/favicon.ico" />
+     <script src="https://jsdelivr.net" defer></script>
 
     <title>Hello CSUN!</title>
 
@@ -11,11 +12,25 @@
     <!-- import the webpage's stylesheet -->
     <link rel="stylesheet" href="style.css" />
     
-
+<!--allow the confetti to show-->
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.3/dist/confetti.browser.min.js"></script>
 
     <!-- import the webpage's javascript file -->
     <script src="script.js" defer></script>
   </head>
+
+  <!--button function-->
+
+  <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Confetti Button</title>
+    <!-- Link your CSS file -->
+    <link rel="stylesheet" href="style.css">
+    <!-- Load the confetti helper tool first -->
+    <script src="https://jsdelivr.net" defer></script>
+    <!-- Link your JS file -->
+    <script src="script.js" defer></script>
+
   <body>
     <!-- this is the start of content -->
     <h1>
@@ -28,5 +43,16 @@
   </body>
 
   <!-- Trying new html header-->
+   <!--lets the user know that new header is made and color change due to the css-->
+   <!--Also inform user of to inspect page to show the command line script-->
   <h2>This is Michael Rodriguez trying out new text and color!</h2>
-</html>
+  <p>Inspect the page and see the console to see a hidden easter egg!</p>
+
+<!--container class for the button-->
+<div class="container">
+        <h1>Ready to Celebrate?</h1>
+        <!-- This is your random confetti button -->
+        <button id="confettiBtn">🎉 Click Me!</button>
+    </div>
+
+  </html>
