@@ -20,3 +20,6 @@ This repository contains the updated HTML and CSS files for COMP 584 Homework 1.
 
 Open https://rodmike54.github.io/comp584-hw1/hw0.github.io-main/index.html in a web browser to view the updated webpage.
 or click the index.html link
+
+
+Please allow website to load before clicking the button. (Check the website tab if it is still loading)
